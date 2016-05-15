@@ -4478,32 +4478,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-asphalt-orange .reveal a:hover {
     color: #ffda66
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-left,
-.theme-color-asphalt-orange .reveal .controls div.navigate-left.enabled {
+.theme-color-asphalt-orange .reveal .controls .navigate-left,
+.theme-color-asphalt-orange .reveal .controls .navigate-left.enabled {
     border-right-color: #ffc200
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-right,
-.theme-color-asphalt-orange .reveal .controls div.navigate-right.enabled {
+.theme-color-asphalt-orange .reveal .controls .navigate-right,
+.theme-color-asphalt-orange .reveal .controls .navigate-right.enabled {
     border-left-color: #ffc200
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-up,
-.theme-color-asphalt-orange .reveal .controls div.navigate-up.enabled {
+.theme-color-asphalt-orange .reveal .controls .navigate-up,
+.theme-color-asphalt-orange .reveal .controls .navigate-up.enabled {
     border-bottom-color: #ffc200
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-down,
-.theme-color-asphalt-orange .reveal .controls div.navigate-down.enabled {
+.theme-color-asphalt-orange .reveal .controls .navigate-down,
+.theme-color-asphalt-orange .reveal .controls .navigate-down.enabled {
     border-top-color: #ffc200
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-asphalt-orange .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #ffda66
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-asphalt-orange .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #ffda66
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-asphalt-orange .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #ffda66
 }
-.theme-color-asphalt-orange .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-asphalt-orange .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #ffda66
 }
 .theme-color-asphalt-orange .reveal .progress {
@@ -4544,32 +4544,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-beige-brown .reveal a:hover {
     color: #c0a86e
 }
-.theme-color-beige-brown .reveal .controls div.navigate-left,
-.theme-color-beige-brown .reveal .controls div.navigate-left.enabled {
+.theme-color-beige-brown .reveal .controls .navigate-left,
+.theme-color-beige-brown .reveal .controls .navigate-left.enabled {
     border-right-color: #8b743d
 }
-.theme-color-beige-brown .reveal .controls div.navigate-right,
-.theme-color-beige-brown .reveal .controls div.navigate-right.enabled {
+.theme-color-beige-brown .reveal .controls .navigate-right,
+.theme-color-beige-brown .reveal .controls .navigate-right.enabled {
     border-left-color: #8b743d
 }
-.theme-color-beige-brown .reveal .controls div.navigate-up,
-.theme-color-beige-brown .reveal .controls div.navigate-up.enabled {
+.theme-color-beige-brown .reveal .controls .navigate-up,
+.theme-color-beige-brown .reveal .controls .navigate-up.enabled {
     border-bottom-color: #8b743d
 }
-.theme-color-beige-brown .reveal .controls div.navigate-down,
-.theme-color-beige-brown .reveal .controls div.navigate-down.enabled {
+.theme-color-beige-brown .reveal .controls .navigate-down,
+.theme-color-beige-brown .reveal .controls .navigate-down.enabled {
     border-top-color: #8b743d
 }
-.theme-color-beige-brown .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-beige-brown .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #c0a86e
 }
-.theme-color-beige-brown .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-beige-brown .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #c0a86e
 }
-.theme-color-beige-brown .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-beige-brown .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #c0a86e
 }
-.theme-color-beige-brown .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-beige-brown .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #c0a86e
 }
 .theme-color-beige-brown .reveal .progress {
@@ -4608,32 +4608,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-black-blue .reveal a:hover {
     color: #79b7fa
 }
-.theme-color-black-blue .reveal .controls div.navigate-left,
-.theme-color-black-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-black-blue .reveal .controls .navigate-left,
+.theme-color-black-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #2f90f8
 }
-.theme-color-black-blue .reveal .controls div.navigate-right,
-.theme-color-black-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-black-blue .reveal .controls .navigate-right,
+.theme-color-black-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #2f90f8
 }
-.theme-color-black-blue .reveal .controls div.navigate-up,
-.theme-color-black-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-black-blue .reveal .controls .navigate-up,
+.theme-color-black-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #2f90f8
 }
-.theme-color-black-blue .reveal .controls div.navigate-down,
-.theme-color-black-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-black-blue .reveal .controls .navigate-down,
+.theme-color-black-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #2f90f8
 }
-.theme-color-black-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-black-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #79b7fa
 }
-.theme-color-black-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-black-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #79b7fa
 }
-.theme-color-black-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-black-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #79b7fa
 }
-.theme-color-black-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-black-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #79b7fa
 }
 .theme-color-black-blue .reveal .progress {
@@ -4672,32 +4672,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-black-mint .reveal a:hover {
     color: #c6ebc8
 }
-.theme-color-black-mint .reveal .controls div.navigate-left,
-.theme-color-black-mint .reveal .controls div.navigate-left.enabled {
+.theme-color-black-mint .reveal .controls .navigate-left,
+.theme-color-black-mint .reveal .controls .navigate-left.enabled {
     border-right-color: #8dd792
 }
-.theme-color-black-mint .reveal .controls div.navigate-right,
-.theme-color-black-mint .reveal .controls div.navigate-right.enabled {
+.theme-color-black-mint .reveal .controls .navigate-right,
+.theme-color-black-mint .reveal .controls .navigate-right.enabled {
     border-left-color: #8dd792
 }
-.theme-color-black-mint .reveal .controls div.navigate-up,
-.theme-color-black-mint .reveal .controls div.navigate-up.enabled {
+.theme-color-black-mint .reveal .controls .navigate-up,
+.theme-color-black-mint .reveal .controls .navigate-up.enabled {
     border-bottom-color: #8dd792
 }
-.theme-color-black-mint .reveal .controls div.navigate-down,
-.theme-color-black-mint .reveal .controls div.navigate-down.enabled {
+.theme-color-black-mint .reveal .controls .navigate-down,
+.theme-color-black-mint .reveal .controls .navigate-down.enabled {
     border-top-color: #8dd792
 }
-.theme-color-black-mint .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-black-mint .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #c6ebc8
 }
-.theme-color-black-mint .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-black-mint .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #c6ebc8
 }
-.theme-color-black-mint .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-black-mint .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #c6ebc8
 }
-.theme-color-black-mint .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-black-mint .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #c6ebc8
 }
 .theme-color-black-mint .reveal .progress {
@@ -4736,32 +4736,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-black-orange .reveal a:hover {
     color: #f3d7ac
 }
-.theme-color-black-orange .reveal .controls div.navigate-left,
-.theme-color-black-orange .reveal .controls div.navigate-left.enabled {
+.theme-color-black-orange .reveal .controls .navigate-left,
+.theme-color-black-orange .reveal .controls .navigate-left.enabled {
     border-right-color: #e7ad52
 }
-.theme-color-black-orange .reveal .controls div.navigate-right,
-.theme-color-black-orange .reveal .controls div.navigate-right.enabled {
+.theme-color-black-orange .reveal .controls .navigate-right,
+.theme-color-black-orange .reveal .controls .navigate-right.enabled {
     border-left-color: #e7ad52
 }
-.theme-color-black-orange .reveal .controls div.navigate-up,
-.theme-color-black-orange .reveal .controls div.navigate-up.enabled {
+.theme-color-black-orange .reveal .controls .navigate-up,
+.theme-color-black-orange .reveal .controls .navigate-up.enabled {
     border-bottom-color: #e7ad52
 }
-.theme-color-black-orange .reveal .controls div.navigate-down,
-.theme-color-black-orange .reveal .controls div.navigate-down.enabled {
+.theme-color-black-orange .reveal .controls .navigate-down,
+.theme-color-black-orange .reveal .controls .navigate-down.enabled {
     border-top-color: #e7ad52
 }
-.theme-color-black-orange .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-black-orange .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #f3d7ac
 }
-.theme-color-black-orange .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-black-orange .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #f3d7ac
 }
-.theme-color-black-orange .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-black-orange .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #f3d7ac
 }
-.theme-color-black-orange .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-black-orange .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #f3d7ac
 }
 .theme-color-black-orange .reveal .progress {
@@ -4800,32 +4800,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-blue-yellow .reveal a:hover {
     color: #f8f8c4
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-left,
-.theme-color-blue-yellow .reveal .controls div.navigate-left.enabled {
+.theme-color-blue-yellow .reveal .controls .navigate-left,
+.theme-color-blue-yellow .reveal .controls .navigate-left.enabled {
     border-right-color: #ecec6a
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-right,
-.theme-color-blue-yellow .reveal .controls div.navigate-right.enabled {
+.theme-color-blue-yellow .reveal .controls .navigate-right,
+.theme-color-blue-yellow .reveal .controls .navigate-right.enabled {
     border-left-color: #ecec6a
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-up,
-.theme-color-blue-yellow .reveal .controls div.navigate-up.enabled {
+.theme-color-blue-yellow .reveal .controls .navigate-up,
+.theme-color-blue-yellow .reveal .controls .navigate-up.enabled {
     border-bottom-color: #ecec6a
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-down,
-.theme-color-blue-yellow .reveal .controls div.navigate-down.enabled {
+.theme-color-blue-yellow .reveal .controls .navigate-down,
+.theme-color-blue-yellow .reveal .controls .navigate-down.enabled {
     border-top-color: #ecec6a
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-blue-yellow .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #f8f8c4
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-blue-yellow .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #f8f8c4
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-blue-yellow .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #f8f8c4
 }
-.theme-color-blue-yellow .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-blue-yellow .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #f8f8c4
 }
 .theme-color-blue-yellow .reveal .progress {
@@ -4866,32 +4866,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-cobalt-orange .reveal a:hover {
     color: #f2b968
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-left,
-.theme-color-cobalt-orange .reveal .controls div.navigate-left.enabled {
+.theme-color-cobalt-orange .reveal .controls .navigate-left,
+.theme-color-cobalt-orange .reveal .controls .navigate-left.enabled {
     border-right-color: #e08c14
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-right,
-.theme-color-cobalt-orange .reveal .controls div.navigate-right.enabled {
+.theme-color-cobalt-orange .reveal .controls .navigate-right,
+.theme-color-cobalt-orange .reveal .controls .navigate-right.enabled {
     border-left-color: #e08c14
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-up,
-.theme-color-cobalt-orange .reveal .controls div.navigate-up.enabled {
+.theme-color-cobalt-orange .reveal .controls .navigate-up,
+.theme-color-cobalt-orange .reveal .controls .navigate-up.enabled {
     border-bottom-color: #e08c14
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-down,
-.theme-color-cobalt-orange .reveal .controls div.navigate-down.enabled {
+.theme-color-cobalt-orange .reveal .controls .navigate-down,
+.theme-color-cobalt-orange .reveal .controls .navigate-down.enabled {
     border-top-color: #e08c14
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-cobalt-orange .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #f2b968
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-cobalt-orange .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #f2b968
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-cobalt-orange .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #f2b968
 }
-.theme-color-cobalt-orange .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-cobalt-orange .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #f2b968
 }
 .theme-color-cobalt-orange .reveal .progress {
@@ -4932,32 +4932,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-coral-blue .reveal a:hover {
     color: #86a1da
 }
-.theme-color-coral-blue .reveal .controls div.navigate-left,
-.theme-color-coral-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-coral-blue .reveal .controls .navigate-left,
+.theme-color-coral-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #3a65c0
 }
-.theme-color-coral-blue .reveal .controls div.navigate-right,
-.theme-color-coral-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-coral-blue .reveal .controls .navigate-right,
+.theme-color-coral-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #3a65c0
 }
-.theme-color-coral-blue .reveal .controls div.navigate-up,
-.theme-color-coral-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-coral-blue .reveal .controls .navigate-up,
+.theme-color-coral-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #3a65c0
 }
-.theme-color-coral-blue .reveal .controls div.navigate-down,
-.theme-color-coral-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-coral-blue .reveal .controls .navigate-down,
+.theme-color-coral-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #3a65c0
 }
-.theme-color-coral-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-coral-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #86a1da
 }
-.theme-color-coral-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-coral-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #86a1da
 }
-.theme-color-coral-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-coral-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #86a1da
 }
-.theme-color-coral-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-coral-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #86a1da
 }
 .theme-color-coral-blue .reveal .progress {
@@ -4996,32 +4996,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-forest-yellow .reveal a:hover {
     color: #f8f8c4
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-left,
-.theme-color-forest-yellow .reveal .controls div.navigate-left.enabled {
+.theme-color-forest-yellow .reveal .controls .navigate-left,
+.theme-color-forest-yellow .reveal .controls .navigate-left.enabled {
     border-right-color: #ecec6a
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-right,
-.theme-color-forest-yellow .reveal .controls div.navigate-right.enabled {
+.theme-color-forest-yellow .reveal .controls .navigate-right,
+.theme-color-forest-yellow .reveal .controls .navigate-right.enabled {
     border-left-color: #ecec6a
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-up,
-.theme-color-forest-yellow .reveal .controls div.navigate-up.enabled {
+.theme-color-forest-yellow .reveal .controls .navigate-up,
+.theme-color-forest-yellow .reveal .controls .navigate-up.enabled {
     border-bottom-color: #ecec6a
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-down,
-.theme-color-forest-yellow .reveal .controls div.navigate-down.enabled {
+.theme-color-forest-yellow .reveal .controls .navigate-down,
+.theme-color-forest-yellow .reveal .controls .navigate-down.enabled {
     border-top-color: #ecec6a
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-forest-yellow .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #f8f8c4
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-forest-yellow .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #f8f8c4
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-forest-yellow .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #f8f8c4
 }
-.theme-color-forest-yellow .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-forest-yellow .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #f8f8c4
 }
 .theme-color-forest-yellow .reveal .progress {
@@ -5062,32 +5062,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-grey-blue .reveal a:hover {
     color: #71e9f4
 }
-.theme-color-grey-blue .reveal .controls div.navigate-left,
-.theme-color-grey-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-grey-blue .reveal .controls .navigate-left,
+.theme-color-grey-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #13daec
 }
-.theme-color-grey-blue .reveal .controls div.navigate-right,
-.theme-color-grey-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-grey-blue .reveal .controls .navigate-right,
+.theme-color-grey-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #13daec
 }
-.theme-color-grey-blue .reveal .controls div.navigate-up,
-.theme-color-grey-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-grey-blue .reveal .controls .navigate-up,
+.theme-color-grey-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #13daec
 }
-.theme-color-grey-blue .reveal .controls div.navigate-down,
-.theme-color-grey-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-grey-blue .reveal .controls .navigate-down,
+.theme-color-grey-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #13daec
 }
-.theme-color-grey-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-grey-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #71e9f4
 }
-.theme-color-grey-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-grey-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #71e9f4
 }
-.theme-color-grey-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-grey-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #71e9f4
 }
-.theme-color-grey-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-grey-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #71e9f4
 }
 .theme-color-grey-blue .reveal .progress {
@@ -5128,32 +5128,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-mint-beige .reveal a:hover {
     color: #f8f8c4
 }
-.theme-color-mint-beige .reveal .controls div.navigate-left,
-.theme-color-mint-beige .reveal .controls div.navigate-left.enabled {
+.theme-color-mint-beige .reveal .controls .navigate-left,
+.theme-color-mint-beige .reveal .controls .navigate-left.enabled {
     border-right-color: #ecec6a
 }
-.theme-color-mint-beige .reveal .controls div.navigate-right,
-.theme-color-mint-beige .reveal .controls div.navigate-right.enabled {
+.theme-color-mint-beige .reveal .controls .navigate-right,
+.theme-color-mint-beige .reveal .controls .navigate-right.enabled {
     border-left-color: #ecec6a
 }
-.theme-color-mint-beige .reveal .controls div.navigate-up,
-.theme-color-mint-beige .reveal .controls div.navigate-up.enabled {
+.theme-color-mint-beige .reveal .controls .navigate-up,
+.theme-color-mint-beige .reveal .controls .navigate-up.enabled {
     border-bottom-color: #ecec6a
 }
-.theme-color-mint-beige .reveal .controls div.navigate-down,
-.theme-color-mint-beige .reveal .controls div.navigate-down.enabled {
+.theme-color-mint-beige .reveal .controls .navigate-down,
+.theme-color-mint-beige .reveal .controls .navigate-down.enabled {
     border-top-color: #ecec6a
 }
-.theme-color-mint-beige .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-mint-beige .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #f8f8c4
 }
-.theme-color-mint-beige .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-mint-beige .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #f8f8c4
 }
-.theme-color-mint-beige .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-mint-beige .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #f8f8c4
 }
-.theme-color-mint-beige .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-mint-beige .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #f8f8c4
 }
 .theme-color-mint-beige .reveal .progress {
@@ -5205,32 +5205,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-sand-blue .reveal a:hover {
     color: #92c5fb
 }
-.theme-color-sand-blue .reveal .controls div.navigate-left,
-.theme-color-sand-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-sand-blue .reveal .controls .navigate-left,
+.theme-color-sand-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #2f90f8
 }
-.theme-color-sand-blue .reveal .controls div.navigate-right,
-.theme-color-sand-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-sand-blue .reveal .controls .navigate-right,
+.theme-color-sand-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #2f90f8
 }
-.theme-color-sand-blue .reveal .controls div.navigate-up,
-.theme-color-sand-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-sand-blue .reveal .controls .navigate-up,
+.theme-color-sand-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #2f90f8
 }
-.theme-color-sand-blue .reveal .controls div.navigate-down,
-.theme-color-sand-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-sand-blue .reveal .controls .navigate-down,
+.theme-color-sand-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #2f90f8
 }
-.theme-color-sand-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-sand-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #92c5fb
 }
-.theme-color-sand-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-sand-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #92c5fb
 }
-.theme-color-sand-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-sand-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #92c5fb
 }
-.theme-color-sand-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-sand-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #92c5fb
 }
 .theme-color-sand-blue .reveal .progress {
@@ -5271,32 +5271,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-sea-yellow .reveal a:hover {
     color: #ffda66
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-left,
-.theme-color-sea-yellow .reveal .controls div.navigate-left.enabled {
+.theme-color-sea-yellow .reveal .controls .navigate-left,
+.theme-color-sea-yellow .reveal .controls .navigate-left.enabled {
     border-right-color: #ffc200
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-right,
-.theme-color-sea-yellow .reveal .controls div.navigate-right.enabled {
+.theme-color-sea-yellow .reveal .controls .navigate-right,
+.theme-color-sea-yellow .reveal .controls .navigate-right.enabled {
     border-left-color: #ffc200
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-up,
-.theme-color-sea-yellow .reveal .controls div.navigate-up.enabled {
+.theme-color-sea-yellow .reveal .controls .navigate-up,
+.theme-color-sea-yellow .reveal .controls .navigate-up.enabled {
     border-bottom-color: #ffc200
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-down,
-.theme-color-sea-yellow .reveal .controls div.navigate-down.enabled {
+.theme-color-sea-yellow .reveal .controls .navigate-down,
+.theme-color-sea-yellow .reveal .controls .navigate-down.enabled {
     border-top-color: #ffc200
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-sea-yellow .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #ffda66
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-sea-yellow .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #ffda66
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-sea-yellow .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #ffda66
 }
-.theme-color-sea-yellow .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-sea-yellow .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #ffda66
 }
 .theme-color-sea-yellow .reveal .progress {
@@ -5337,32 +5337,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-silver-blue .reveal a:hover {
     color: #2184ee
 }
-.theme-color-silver-blue .reveal .controls div.navigate-left,
-.theme-color-silver-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-silver-blue .reveal .controls .navigate-left,
+.theme-color-silver-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #106bcc
 }
-.theme-color-silver-blue .reveal .controls div.navigate-right,
-.theme-color-silver-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-silver-blue .reveal .controls .navigate-right,
+.theme-color-silver-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #106bcc
 }
-.theme-color-silver-blue .reveal .controls div.navigate-up,
-.theme-color-silver-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-silver-blue .reveal .controls .navigate-up,
+.theme-color-silver-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #106bcc
 }
-.theme-color-silver-blue .reveal .controls div.navigate-down,
-.theme-color-silver-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-silver-blue .reveal .controls .navigate-down,
+.theme-color-silver-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #106bcc
 }
-.theme-color-silver-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-silver-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #2184ee
 }
-.theme-color-silver-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-silver-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #2184ee
 }
-.theme-color-silver-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-silver-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #2184ee
 }
-.theme-color-silver-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-silver-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #2184ee
 }
 .theme-color-silver-blue .reveal .progress {
@@ -5403,32 +5403,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-silver-green .reveal a:hover {
     color: #04c633
 }
-.theme-color-silver-green .reveal .controls div.navigate-left,
-.theme-color-silver-green .reveal .controls div.navigate-left.enabled {
+.theme-color-silver-green .reveal .controls .navigate-left,
+.theme-color-silver-green .reveal .controls .navigate-left.enabled {
     border-right-color: #039426
 }
-.theme-color-silver-green .reveal .controls div.navigate-right,
-.theme-color-silver-green .reveal .controls div.navigate-right.enabled {
+.theme-color-silver-green .reveal .controls .navigate-right,
+.theme-color-silver-green .reveal .controls .navigate-right.enabled {
     border-left-color: #039426
 }
-.theme-color-silver-green .reveal .controls div.navigate-up,
-.theme-color-silver-green .reveal .controls div.navigate-up.enabled {
+.theme-color-silver-green .reveal .controls .navigate-up,
+.theme-color-silver-green .reveal .controls .navigate-up.enabled {
     border-bottom-color: #039426
 }
-.theme-color-silver-green .reveal .controls div.navigate-down,
-.theme-color-silver-green .reveal .controls div.navigate-down.enabled {
+.theme-color-silver-green .reveal .controls .navigate-down,
+.theme-color-silver-green .reveal .controls .navigate-down.enabled {
     border-top-color: #039426
 }
-.theme-color-silver-green .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-silver-green .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #04c633
 }
-.theme-color-silver-green .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-silver-green .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #04c633
 }
-.theme-color-silver-green .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-silver-green .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #04c633
 }
-.theme-color-silver-green .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-silver-green .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #04c633
 }
 .theme-color-silver-green .reveal .progress {
@@ -5469,32 +5469,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-sky-blue .reveal a:hover {
     color: #74a7cb
 }
-.theme-color-sky-blue .reveal .controls div.navigate-left,
-.theme-color-sky-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-sky-blue .reveal .controls .navigate-left,
+.theme-color-sky-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #3b759e
 }
-.theme-color-sky-blue .reveal .controls div.navigate-right,
-.theme-color-sky-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-sky-blue .reveal .controls .navigate-right,
+.theme-color-sky-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #3b759e
 }
-.theme-color-sky-blue .reveal .controls div.navigate-up,
-.theme-color-sky-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-sky-blue .reveal .controls .navigate-up,
+.theme-color-sky-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #3b759e
 }
-.theme-color-sky-blue .reveal .controls div.navigate-down,
-.theme-color-sky-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-sky-blue .reveal .controls .navigate-down,
+.theme-color-sky-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #3b759e
 }
-.theme-color-sky-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-sky-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #74a7cb
 }
-.theme-color-sky-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-sky-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #74a7cb
 }
-.theme-color-sky-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-sky-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #74a7cb
 }
-.theme-color-sky-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-sky-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #74a7cb
 }
 .theme-color-sky-blue .reveal .progress {
@@ -5533,32 +5533,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-white-blue .reveal a:hover {
     color: #3991ef
 }
-.theme-color-white-blue .reveal .controls div.navigate-left,
-.theme-color-white-blue .reveal .controls div.navigate-left.enabled {
+.theme-color-white-blue .reveal .controls .navigate-left,
+.theme-color-white-blue .reveal .controls .navigate-left.enabled {
     border-right-color: #106bcc
 }
-.theme-color-white-blue .reveal .controls div.navigate-right,
-.theme-color-white-blue .reveal .controls div.navigate-right.enabled {
+.theme-color-white-blue .reveal .controls .navigate-right,
+.theme-color-white-blue .reveal .controls .navigate-right.enabled {
     border-left-color: #106bcc
 }
-.theme-color-white-blue .reveal .controls div.navigate-up,
-.theme-color-white-blue .reveal .controls div.navigate-up.enabled {
+.theme-color-white-blue .reveal .controls .navigate-up,
+.theme-color-white-blue .reveal .controls .navigate-up.enabled {
     border-bottom-color: #106bcc
 }
-.theme-color-white-blue .reveal .controls div.navigate-down,
-.theme-color-white-blue .reveal .controls div.navigate-down.enabled {
+.theme-color-white-blue .reveal .controls .navigate-down,
+.theme-color-white-blue .reveal .controls .navigate-down.enabled {
     border-top-color: #106bcc
 }
-.theme-color-white-blue .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-white-blue .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #3991ef
 }
-.theme-color-white-blue .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-white-blue .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #3991ef
 }
-.theme-color-white-blue .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-white-blue .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #3991ef
 }
-.theme-color-white-blue .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-white-blue .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #3991ef
 }
 .theme-color-white-blue .reveal .progress {
@@ -5597,32 +5597,32 @@ html:-moz-full-screen-ancestor {
 .theme-color-yellow-black .reveal a:hover {
     color: #a3aaf6
 }
-.theme-color-yellow-black .reveal .controls div.navigate-left,
-.theme-color-yellow-black .reveal .controls div.navigate-left.enabled {
+.theme-color-yellow-black .reveal .controls .navigate-left,
+.theme-color-yellow-black .reveal .controls .navigate-left.enabled {
     border-right-color: #4654ec
 }
-.theme-color-yellow-black .reveal .controls div.navigate-right,
-.theme-color-yellow-black .reveal .controls div.navigate-right.enabled {
+.theme-color-yellow-black .reveal .controls .navigate-right,
+.theme-color-yellow-black .reveal .controls .navigate-right.enabled {
     border-left-color: #4654ec
 }
-.theme-color-yellow-black .reveal .controls div.navigate-up,
-.theme-color-yellow-black .reveal .controls div.navigate-up.enabled {
+.theme-color-yellow-black .reveal .controls .navigate-up,
+.theme-color-yellow-black .reveal .controls .navigate-up.enabled {
     border-bottom-color: #4654ec
 }
-.theme-color-yellow-black .reveal .controls div.navigate-down,
-.theme-color-yellow-black .reveal .controls div.navigate-down.enabled {
+.theme-color-yellow-black .reveal .controls .navigate-down,
+.theme-color-yellow-black .reveal .controls .navigate-down.enabled {
     border-top-color: #4654ec
 }
-.theme-color-yellow-black .reveal .controls div.navigate-left.enabled:hover {
+.theme-color-yellow-black .reveal .controls .navigate-left.enabled:hover {
     border-right-color: #a3aaf6
 }
-.theme-color-yellow-black .reveal .controls div.navigate-right.enabled:hover {
+.theme-color-yellow-black .reveal .controls .navigate-right.enabled:hover {
     border-left-color: #a3aaf6
 }
-.theme-color-yellow-black .reveal .controls div.navigate-up.enabled:hover {
+.theme-color-yellow-black .reveal .controls .navigate-up.enabled:hover {
     border-bottom-color: #a3aaf6
 }
-.theme-color-yellow-black .reveal .controls div.navigate-down.enabled:hover {
+.theme-color-yellow-black .reveal .controls .navigate-down.enabled:hover {
     border-top-color: #a3aaf6
 }
 .theme-color-yellow-black .reveal .progress {
